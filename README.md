@@ -5,3 +5,5 @@ Here are some implementations of some standard algorithms:
 * Merge sort
 
 * Bubble Sort
+
+* Quick Sort
